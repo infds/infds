@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-hello world！ 
-hello world！
-=======
 no hello world！
->>>>>>> branch02
+hello hello world！
